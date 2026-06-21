@@ -43,6 +43,7 @@ This dashboard serves as a centralized analytical tool for **coaches, analysts, 
 - Interactive filters (city, team, stadium, position, match result).  
 - KPIs: Player counts, age, ratings, minutes, offensive contributions.  
 - Visuals: Goals by stadium, awards by nationality, player distribution by position.  
+- <img width="1187" height="677" alt="FIFA DASHBOARD" src="https://github.com/user-attachments/assets/93eaded5-c281-4cf2-b1e4-6b3c90e932f3" />
 
 ---
 
