@@ -60,4 +60,4 @@ The FIFA World Cup 2026 KPI Dashboard reveals **balanced demographics, consisten
 
 👉 This README positions your project as a **professional portfolio piece** showcasing your ability to apply **Descriptive, Diagnostic, Predictive, and Prescriptive analytics** with Power BI and DAX.  
 
-Would you like me to also design a **GitHub-friendly visual mockup (dashboard preview image)** 
+Would you like me to also design a 
