@@ -1,4 +1,4 @@
-# FIFA-WORLD-CUP-2026--
+
 ---
 
 # ⚽ FIFA World Cup 2026 – Player Performance KPI Dashboard  
