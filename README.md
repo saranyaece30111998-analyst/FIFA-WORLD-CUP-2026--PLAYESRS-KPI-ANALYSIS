@@ -58,6 +58,5 @@ The FIFA World Cup 2026 KPI Dashboard reveals **balanced demographics, consisten
 
 ---
 
-👉 This README positions your project as a 
 
 
