@@ -1,5 +1,5 @@
 # FIFA-WORLD-CUP-2026--PLAYESRS-KPI-ANALYSIS
-Here’s a polished **GitHub README.md** draft for your FIFA World Cup 2026 Player KPI Dashboard project. It includes the dashboard overview and the four analytics perspectives (Descriptive, Diagnostic, Predictive, Prescriptive) 
+Here’s a polished **GitHub README.md** draft for your FIFA World Cup 2026 Player KPI Dashboard project. It includes the dashboard overview and the four analytics perspectives 
 
 ---
 
