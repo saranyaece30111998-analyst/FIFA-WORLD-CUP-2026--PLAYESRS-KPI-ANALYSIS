@@ -1,6 +1,4 @@
-# FIFA-WORLD-CUP-2026--PLAYESRS-KPI-ANALYSIS
-Here’s a polished **GitHub README.md** 
-
+# FIFA-WORLD-CUP-2026--
 ---
 
 # ⚽ FIFA World Cup 2026 – Player Performance KPI Dashboard  
